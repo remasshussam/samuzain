@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 85645bbeefc41a14881f4131559e883e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tsuzan Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 701
+        width: 114
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e035bfea06b6b41b64f31cf5240f57
+      internalID: 535388724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 704
+        width: 111
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c1f024346aee47a2451122f4e890a
+      internalID: 654762089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 702
+        width: 120
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6593e0dc99f6d2d42a54baaff5ff5e22
+      internalID: 109459258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 704
+        width: 112
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e90a84e53cd6f4b8a6d31418e19faa
+      internalID: -1358953125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 702
+        width: 111
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829466656dccc2945855e5e702984116
+      internalID: -1169425081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 703
+        width: 114
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2ed288354bcb418bca2ac3bf9f2f3
+      internalID: 2131179548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 703
+        width: 119
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b4d26a14f54dd46b26b0fda4cc7a74
+      internalID: 329675770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 459
+        width: 115
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbea9980e34245145bd7f705e59cf631
+      internalID: -1609248403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 456
+        width: 129
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51ef9956330c3478b1fb4be464eb10
+      internalID: 1624734411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 616
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824582fe3dabf734b9389f828106e89d
+      internalID: -830804436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 460
+        width: 121
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec713deaa7d4214999ee2abb9cb4a9b
+      internalID: 166186117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 460
+        width: 112
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7677f2308f0d64fbbb803cc455721a
+      internalID: 895564637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 463
+        width: 128
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7563ff5e0183b648877bc9296c740ea
+      internalID: 1971772270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 462
+        width: 126
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0f99f1149140469083c78522cfa1e
+      internalID: -2091467293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 462
+        width: 119
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3442eedd06bb24084c6ce6af577246
+      internalID: -301736678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 475
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5dddf294adfa43a25486fc21669e5
+      internalID: -825101377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 481
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef921adcdceb534e828b1ca0f68b95e
+      internalID: -251326655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 222
+        width: 112
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71693fb42b374234bae0b6bd5016f848
+      internalID: -1072189037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 222
+        width: 105
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d51d23b1558a49893bb7fbc7c9b74
+      internalID: 1016228920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 216
+        width: 109
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffa41b7606d5854892e616d9bc0d15f
+      internalID: 377470070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 220
+        width: 112
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cdc718ebf118e42ac0327e110efa11
+      internalID: 1712022779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 444
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500f7aeb7b66a664485d8f81ca3c195b
+      internalID: 351946910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 216
+        width: 112
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad6f8aa35eec742ad105eb954a1c16
+      internalID: -1703293375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 232
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9b7fca417b2b544a4a5ff62e94ea58
+      internalID: -1525977474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 221
+        width: 119
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81309925fa6194b4c9c9d2c50f7e6f1d
+      internalID: 1400773691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 217
+        width: 116
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5549e42dc95983a479ff6a8e1d663760
+      internalID: 330524983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 113
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13105175bdcc964191e7d1300a5787d
+      internalID: -722757682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 117
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb255a4af29b347820e97263d1342b
+      internalID: 29347318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 21
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8e41468d146e4ea62d61aeed67b1f
+      internalID: 1101205980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 7
+        width: 119
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405821f2acf654c96ab8d276cffd16
+      internalID: 1952497768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 8
+        width: 119
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812723a53d0a8914eafeef594c59d3bc
+      internalID: -965886327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 8
+        width: 112
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450c38a5861f004f9ab3ba373273648
+      internalID: 1380189590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 8
+        width: 123
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baba933531ed794b9386bd504e5dfa4
+      internalID: -450130104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tsuzan Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 8
+        width: 128
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f673c6b5ea9f944aa3c374cc3bab72f
+      internalID: 880650957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tsuzan Sheet_24: 1400773691
+      Tsuzan Sheet_1: 654762089
+      Tsuzan Sheet_10: 166186117
+      Tsuzan Sheet_27: 29347318
+      Tsuzan Sheet_4: -1169425081
+      Tsuzan Sheet_9: -830804436
+      Tsuzan Sheet_17: -1072189037
+      Tsuzan Sheet_20: 1712022779
+      Tsuzan Sheet_16: -251326655
+      Tsuzan Sheet_31: 1380189590
+      Tsuzan Sheet_33: 880650957
+      Tsuzan Sheet_0: 535388724
+      Tsuzan Sheet_15: -825101377
+      Tsuzan Sheet_30: -965886327
+      Tsuzan Sheet_7: -1609248403
+      Tsuzan Sheet_12: 1971772270
+      Tsuzan Sheet_22: -1703293375
+      Tsuzan Sheet_29: 1952497768
+      Tsuzan Sheet_6: 329675770
+      Tsuzan Sheet_13: -2091467293
+      Tsuzan Sheet_19: 377470070
+      Tsuzan Sheet_26: -722757682
+      Tsuzan Sheet_21: 351946910
+      Tsuzan Sheet_23: -1525977474
+      Tsuzan Sheet_32: -450130104
+      Tsuzan Sheet_28: 1101205980
+      Tsuzan Sheet_3: -1358953125
+      Tsuzan Sheet_11: 895564637
+      Tsuzan Sheet_14: -301736678
+      Tsuzan Sheet_18: 1016228920
+      Tsuzan Sheet_5: 2131179548
+      Tsuzan Sheet_8: 1624734411
+      Tsuzan Sheet_25: 330524983
+      Tsuzan Sheet_2: 109459258
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
